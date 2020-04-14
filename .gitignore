@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.firebase/
+node_modules/
+images/
+vendor/
+.bundle/
+Gemfile.lock
+*.gem
+.jekyll-metadata/
+.jekyll-cache/

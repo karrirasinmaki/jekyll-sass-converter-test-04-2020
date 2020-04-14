@@ -1,0 +1,33 @@
+second:
+
+  - title: "About Us"
+    url: "/about-us/"
+    children:
+    - title: "Our Story"
+      url: "/about-us/"
+    - title: "Services"
+      url: "/services/"
+    - title: "Teachers"
+      url: "/teachers/"
+    - title: "Info"
+      url: "/info/"
+
+  - title: "About Us"
+    url: "/about-us/"
+    children:
+    - title: "Our Story"
+      url: "/about-us/"
+    - title: "Services"
+      url: "/services/"
+    - title: "Teachers"
+      url: "/teachers/"
+    - title: "Info"
+      url: "/info/"
+
+  - title: "Shop"
+    url: "https://holvi.com/shop/blackpepperswing/"
+    side: right
+
+  - title: "Portal"
+    url: "https://portal.blackpepperswing.com/"
+    side: right

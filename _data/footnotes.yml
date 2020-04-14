@@ -1,0 +1,31 @@
+- menu_name: ""
+
+- name: "About Us"
+  url: "/about-us/"
+
+- name: "Legal Info"
+  url: "/info/"
+
+- name: "Terms and Privacy"
+  url: "/info/tos/"
+
+- name: "&nbsp;"
+  type: "divider"
+
+- name: "Gift Cards"
+  url: "https://holvi.com/shop/blackpepperswing/section/gift-cards/"
+
+- name: "Private Classes"
+  url: "/services#private-classes"
+
+- name: "Beginners' Courses"
+  url: "/courses-for-beginners/"
+
+- name: "&nbsp;"
+  type: "divider"
+
+- name: "Contact Us"
+  url: "/contact/"
+
+- name: "Services & Pricing"
+  url: "/services/"

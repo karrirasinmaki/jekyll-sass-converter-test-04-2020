@@ -1,0 +1,50 @@
+
+url: 'http://localhost:4000'
+baseurl: ''
+urlassets: 'http://localhost:4000/assets/'
+urlimg: 'http://localhost:4000/images/'
+urlvid: 'http://localhost:4000/videos/'
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:title/:year-:month-:day/
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache/
+    - .jekyll-cache/
+    - gemfiles/
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - .git
+    - .gitignore
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - Gulpfile.js
+    - _original_images
+    - vendor
+    - .bundle
+    - bundler
+
+
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+    sass_dir: _sass
+    # style: :compressed
+    style: 'nested'
+    sourcemap: 'always'
+    line_comments: true
+
+

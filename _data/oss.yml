@@ -1,0 +1,25 @@
+- menu_name: "Open Source Libraries"
+
+- name: "Built on Foundation"
+  url: "http://foundation.zurb.com/"
+  title: "Built on Foundation"
+
+- name: "Based on Feeling Responsive"
+  url: "https://phlow.github.io/feeling-responsive/"
+  title: "Based on Feeling Responsive"
+
+- name: "Icons by Daniel Bruce"
+  url: "http://entypo.com/"
+  title: "Icons by Daniel Bruce"
+
+- name: "Photos around Helsinki from Helsinkikuvia.fi"
+  url: "https://www.helsinkikuvia.fi/"
+  title: "Thanks to Helsinkikuvia.fi"
+
+- name: "Some old photos from Kuvakokoelmat.fi"
+  url: "https://www.kuvakokoelmat.fi/"
+  title: "Thanks to Helsinkikuvia.fi"
+
+- name: "Thanks to Museo Finna for photo archive"
+  url: "https://museot.finna.fi/"
+  title: "Thanks to Museo Finna"

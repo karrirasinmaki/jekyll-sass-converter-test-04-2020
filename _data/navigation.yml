@@ -1,0 +1,27 @@
+#
+#   Navigation to the left › side: left
+#
+
+#
+#   Navigation to the right › side: right
+#
+
+# - title: "Helsinki"
+#   url: "/helsinki/"
+#   side: right
+# 
+# - title: "Tampere"
+#   url: "/tampere/"
+#   side: right
+# 
+# - title: "Jyväskylä"
+#   url: "/jyvaskyla/"
+#   side: right
+
+- title: "What is Lindy Hop?"
+  url: "/lindyhop/"
+  side: right
+
+- title: "About Us"
+  url: "/about-us/"
+  side: right
